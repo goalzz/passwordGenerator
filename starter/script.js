@@ -20,3 +20,21 @@ function getPasswordOptions() {
     return null;
 }
 }
+
+// Confirm use of special characters
+var includeSpecial = confirm("Include Special characters?");
+
+//Cofirm use of numeric characters
+var includeNumeric = confirm("Include Numeric characters?")
+
+//Confirm use of lowercase characters
+var includeLowercase = confirm("Include Lowercase characters?")
+
+//Confirm use of uppercase characters
+var includeUppercase = confirm("Include Uppercase characters?")
+
+//at least one character type must be selected
+if (!includeSpecial && !includeNumeric && !includeLowercase && !includeUppercase) {
+  alert("Please select at least one character type.");
+  return null; // return null if none selected
+}
