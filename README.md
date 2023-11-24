@@ -28,7 +28,7 @@ Contributions are welcome! If you have suggestions, feature requests, or find an
 ## Screenshot 
 
 <img width="400" alt="Screenshot of the web app" src="https://github.com/goalzz/passwordGenerator/assets/124784722/c536b77d-617b-41d2-a0fe-2fe204784c59">
-<img width="400" alt="Screenshot with a prompt appearing" src="https://github.com/goalzz/passwordGenerator/assets/124784722/5d6d8f22-956d-4e5b-9e42-ca083c2b354c">
+<img width="300" alt="Screenshot with a prompt appearing" src="https://github.com/goalzz/passwordGenerator/assets/124784722/5d6d8f22-956d-4e5b-9e42-ca083c2b354c">
 <img width="400" alt="Screenshot of one random password appearing" src="https://github.com/goalzz/passwordGenerator/assets/124784722/597d4103-c760-4ffe-8149-dc65ade2299f">
 
 
